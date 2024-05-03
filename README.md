@@ -1,5 +1,5 @@
 # Explainable_AI
-Code repo for CSE599F at UW
+Code repo
 
 ## Homework 1
 Mostly about removal-based explanation & the Shapley value
